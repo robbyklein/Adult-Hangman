@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/robby/Dev/Adult Hangman/Adult Hangman Server/Adult Hangman Server.csproj": {}
+  },
+  "projects": {
+    "/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/Adult Hangman Libs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/Adult Hangman Libs.csproj",
+        "projectName": "Adult Hangman Libs",
+        "projectPath": "/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/Adult Hangman Libs.csproj",
+        "packagesPath": "/Users/robby/.nuget/packages/",
+        "outputPath": "/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/robby/Dev/Adult Hangman/Adult Hangman Server/Adult Hangman Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/robby/Dev/Adult Hangman/Adult Hangman Server/Adult Hangman Server.csproj",
+        "projectName": "Adult Hangman Server",
+        "projectPath": "/Users/robby/Dev/Adult Hangman/Adult Hangman Server/Adult Hangman Server.csproj",
+        "packagesPath": "/Users/robby/.nuget/packages/",
+        "outputPath": "/Users/robby/Dev/Adult Hangman/Adult Hangman Server/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/robby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/Adult Hangman Libs.csproj": {
+                "projectPath": "/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/Adult Hangman Libs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

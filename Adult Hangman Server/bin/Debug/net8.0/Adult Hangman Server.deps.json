@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Adult Hangman Server/1.0.0": {
+        "runtime": {
+          "Adult Hangman Server.dll": {}
+        }
+      },
+      "Adult Hangman Libs/1.0.0": {
+        "runtime": {
+          "Adult Hangman Libs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Adult Hangman Server/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Adult Hangman Libs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/bin/Debug/net8.0/Adult Hangman Libs.deps.json
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/bin/Debug/net8.0/Adult Hangman Libs.dll
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/bin/Debug/net8.0/Adult Hangman Libs.pdb
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/Adult Hangman Libs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/Adult Hangman Libs.AssemblyInfoInputs.cache
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/Adult Hangman Libs.AssemblyInfo.cs
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/Adult Hangman Libs.csproj.CoreCompileInputs.cache
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/Adult Hangman Libs.dll
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/refint/Adult Hangman Libs.dll
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/Adult Hangman Libs.pdb
+/Users/robby/Dev/Adult Hangman/Adult Hangman Libs/obj/Debug/net8.0/ref/Adult Hangman Libs.dll
